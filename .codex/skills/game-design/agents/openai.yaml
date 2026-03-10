@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Game Design"
+  short_description: "Design core loop, rules, and progression"
+  default_prompt: "Use $game-design to tighten Ash Relay's core loop and vertical-slice mechanics."

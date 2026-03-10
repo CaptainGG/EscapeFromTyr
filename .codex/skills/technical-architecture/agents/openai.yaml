@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Technical Architecture"
+  short_description: "Plan Phaser structure, state, and tooling"
+  default_prompt: "Use $technical-architecture to define the Phaser structure and state flow for Ash Relay."

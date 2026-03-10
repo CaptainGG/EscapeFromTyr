@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Narrative Design"
+  short_description: "Shape game story, tone, and motivation"
+  default_prompt: "Use $narrative-design to define the story framing and tone for Ash Relay's next milestone."

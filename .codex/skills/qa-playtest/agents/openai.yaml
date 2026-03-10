@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "QA Playtest"
+  short_description: "Review gameplay quality, risk, and tuning"
+  default_prompt: "Use $qa-playtest to review the current Ash Relay slice for bugs, clarity, and balance risk."

@@ -1,0 +1,20 @@
+{
+  "title": "Station Escape Placeholder Asset Plan",
+  "resolution": "480x270",
+  "tileSize": 16,
+  "palette": {
+    "background": "#090b14",
+    "floor": "#1a2233",
+    "wall": "#33435c",
+    "player": "#ffc857",
+    "drone": "#ff6b6b",
+    "screen": "#5edbff",
+    "keycard": "#b59cff",
+    "exit": "#90f4b2"
+  },
+  "runtimeStrategy": "generated-textures",
+  "notes": [
+    "Use generated geometry for the first station run.",
+    "Replace with authored sprites without changing gameplay dimensions."
+  ]
+}

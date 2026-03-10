@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Game Orchestrator"
+  short_description: "Coordinate cross-discipline indie game work"
+  default_prompt: "Use $game-orchestrator to align the docs, scope, and implementation for the next Ash Relay milestone."

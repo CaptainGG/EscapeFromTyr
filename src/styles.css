@@ -1,0 +1,44 @@
+:root {
+  color: #f5f7ff;
+  background:
+    radial-gradient(circle at top, rgba(94, 219, 255, 0.12), transparent 34%),
+    linear-gradient(180deg, #080b12 0%, #111724 48%, #05070b 100%);
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+#app {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  padding: 16px;
+}
+
+canvas {
+  width: min(calc(100vw - 32px), 960px);
+  max-height: calc(100vh - 32px);
+  height: auto;
+  aspect-ratio: 16 / 9;
+  image-rendering: pixelated;
+  border: 1px solid rgba(144, 244, 178, 0.18);
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.04),
+    0 22px 64px rgba(0, 0, 0, 0.55);
+}

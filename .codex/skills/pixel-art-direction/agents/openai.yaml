@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Pixel Art Direction"
+  short_description: "Define readable pixel-art style and assets"
+  default_prompt: "Use $pixel-art-direction to define Ash Relay's palette, tile rules, and next asset list."

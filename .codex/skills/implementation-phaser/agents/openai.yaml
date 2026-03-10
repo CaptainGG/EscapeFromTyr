@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Implementation Phaser"
+  short_description: "Implement Phaser gameplay and scene code"
+  default_prompt: "Use $implementation-phaser to build the next playable Ash Relay feature in Phaser."

@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "UI UX Game"
+  short_description: "Design HUD, menus, and player clarity"
+  default_prompt: "Use $ui-ux-game to define the HUD and onboarding flow for Ash Relay's current slice."

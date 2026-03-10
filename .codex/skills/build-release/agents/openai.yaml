@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Build Release"
+  short_description: "Prepare playable builds and release gates"
+  default_prompt: "Use $build-release to review Ash Relay's build sanity and milestone checklist."

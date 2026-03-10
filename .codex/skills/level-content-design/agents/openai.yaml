@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Level Content Design"
+  short_description: "Plan levels, pacing, and encounters"
+  default_prompt: "Use $level-content-design to define the relay district flow and encounter beats for Ash Relay."

@@ -1,4 +1,4 @@
-# Station Escape
+# Escape From Tyr
 
 Station Escape is a small top-down action roguelite set inside a failing orbital station. The current build is focused on one tight, replayable run: push through three connected spaces, survive security pressure, steal clearance, restore power to the shuttle line, and get out.
 
